@@ -1,0 +1,53 @@
+# Maven / Java
+/target/
+*.jar
+*.war
+*.class
+
+# IntelliJ
+/.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Node
+/frontend/node_modules/
+/frontend/build/
+
+# Python
+/backend/venv/
+__pycache__/
+*.py[cod]
+
+
+
+# OS
+.DS_Store
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
+
+# Coverage
+jacoco.exec
+
+# Misc
+*.sqlite
+
+# Ignore local generated files
+/frontend/.env.local
+/backend/.env
+
+
+
+node_modules/
+backend/target/
+frontend/target/
+
+
+backend/**/venv/
+venv/
