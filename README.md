@@ -268,8 +268,14 @@ PRs welcome. Run existing tests locally before submitting. Keep changes small an
 (Insert your project's license here)
 
 ## Screenshots
-<img width="1733" height="906" alt="Screenshot from 2026-05-02 22-40-00" src="https://github.com/user-attachments/assets/55776757-bb4f-4406-a9d5-189a8fe7d9b4" />
-<img width="1733" height="906" alt="Screenshot from 2026-05-02 22-40-00" src="https://github.com/user-attachments/assets/ad040724-0811-47bc-95cc-24126c7d1983" /><img width="1757" height="885" alt="Screenshot from 2026-05-02 22-39-27" src="https://github.com/user-attachments/assets/8f73722f-9878-4ad5-b8ed-3342a9e52ed6" />![Uploading Screenshot from 2026-05-02 22-38-36.png…]()
+<img width="1775" height="821" alt="Screenshot from 2026-05-02 22-38-00" src="https://github.com/user-attachments/assets/3f626f98-85cf-4abe-be86-9091d0b3b6c3" />
+
+<img width="1771" height="777" alt="Screenshot from 2026-05-02 22-38-36" src="https://github.com/user-attachments/assets/836fb21a-0a71-4a22-ba6e-0c440820aa60" />
+
+<img width="1757" height="885" alt="Screenshot from 2026-05-02 22-39-27" src="https://github.com/user-attachments/assets/e045da7a-e9a3-455d-8255-bbf4ef341281" />
+
+<img width="1733" height="906" alt="Screenshot from 2026-05-02 22-40-00" src="https://github.com/user-attachments/assets/2f9bdbfd-b017-4cfd-9950-5e1e389be518" />
+
 
 
 
