@@ -237,7 +237,6 @@ Important: Because EventSource sends a long-lived GET request, the backend accep
 ## How timestamp -> audio playback works (UI behavior)
 - When the chat system returns `startTime`/`endTime` in JSON or the streaming `meta` event contains `startTime`, the frontend calls `setTimestamp(startTime)`.
 - The `Player` component listens for timestamp changes, seeks the audio element to that time (seconds) and starts playback.
-- If you hit `Ask` and do not receive a timestamp, check the backend logs and ensure the transcription step ran and `transcriptionService.findBestMatch` returned a matching transcript. Also verify the `fileId` is valid and points to an uploaded audio/video with transcripts.
 
 ---
 
@@ -267,11 +266,4 @@ PRs welcome. Run existing tests locally before submitting. Keep changes small an
 
 ## License
 (Insert your project's license here)
-
----
-
-If you'd like, I can also:
-- Add a `backend/README.md` with a focused quick-start
-- Add an example `env.example` file for env vars
-- Implement Player auto-seek code or fix the SSE-to-timestamp sequencing in the frontend if you want me to edit the code now
 
